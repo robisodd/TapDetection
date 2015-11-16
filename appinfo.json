@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "longName": "Tap Detection v0.3",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tap Detection 0.3",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "a7680e40-af49-4f96-b1cc-2afef67f5e75",
+    "versionLabel": "0.3",
+    "watchapp": {
+        "watchface": false
+    }
+}
